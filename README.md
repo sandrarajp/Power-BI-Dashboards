@@ -59,6 +59,3 @@ Each dashboard offers key performance metrics, trends, and visual filters for in
 - Custom Visualizations and Slicers
 
 ---
-
-## 📂 File Structure
-
